@@ -1,0 +1,46 @@
+Analytica priora. 471
+
+κωλύει, εἰ τῷ Γ ὑπάρχει τὸ Β μὴ παντὶ δέ, τὸ Α ὅλως μὴ
+ὑπάρχειν.
+
+491128 Si igitur per tres terminos fit conclusio universalis, τὸ
+λέγεσθαι τὸ A (κατὰ τούτου) καθ’ οὗ τὸ Β κατὰ παντός
+(comma ante παντὸς vs. 28 delendum fuisse patet: nam quod
+addidit παντὸς non significat terminum A de alio praedicari
+universo, sed terminum Β praedicari de universo Γ. Confir-
+mat hoc veram mentem Aristotelis a nobis expositam esse in
+iis quae praecesserunt: nam quum hic paucis complectatur
+summam eorum quae modo disputavit, apparet non fuisse ser-
+monem de coniunctione maioris propositionis universalis cum
+minore particulari, sed de maiore indefinita quam cum minore
+vel universali vel particulari ad syllogismum faciendum coniun-
+ctam putare possit qui non recte intelligat τὸ λέγεσθαι τὸ Λ
+καθ’ οὗ τὸ Β κατὰ arumde: qua quidem loquendi formula uti-
+tur e. g. 511141), significat terminum A praedicari de omni-
+bus quae contineantur termino B: quare de quo B universo,
+de eo universo etiam A praedicatur, de quo autem non uni-
+verso Β, de eo universo etiam terminum A praedicari, quam-
+quam aliquando verum est, certe non concluditur: namque τὸ
+λέγεσθαι τὸ A καθ’ οὗ τὸ Β κατὰ παντός hanc vim habet,
+ut significet eandem esse praedicandi rationem termini A et ter-
+mini B. Explicatione igitur, quam hoc capite dedit Aristote-
+les, opus erat, quia verba τὸ καθ’ οὗ τὸ Β παντὸς τὸ Α λέγε-
+σθαι ambigua sunt3 incertum enim manet utrum παντὸς coniun-
+gendum sit cum iis quae praecesserint an cum iis quae sequantur.
+
+491134 ἀλλ’ ὥσπερ . . ., h. e. ἀλλὰ χρώμεθα τῇ τῶν ὅρων έκ-
+θέσει καὶ τῷ τόδε τι εἶναι, ὥσπερ . . . Per exempla non de-
+monstramus quod probandum est, sed monstramus.
+
+49b36 Invitis codicibus optimis vulgarem lectionem ἀλλ’ οὐχ
+οὕτως servavimus, quae et ab ipso Aristotele confirmatur 76b39
+οὐδ’ ὁ γεωμέτρης ψευδῆ ὑποτίθεται, ὥσπερ τινὲς ἔφασαν,
+λέγοντες ὠς οὐ δεῖ τῷ ψεύδει χρῆσθαι, τὸν δὲ γεωμέτρην
+ψεύδεσθαι λέγοντα ποδιαίαν τὴν οὐ ποδιαίαν ἢ εὐθεῖαν
+τὴν γεγραμμένην οὐκ εὐθεῖαν οὖσαν. ὁ δὲ γεωμέτρης οὐδὲν
+συμπεραίνεται τῷ τήνδε εἶναι γραμμήν, ἢν αὐτὸς ἔφθεγκται,
+ἀλλὰ τὰ διὰ τούτων δηλούμενα (cf. 1078a20 οὐδ’ —- h. e.
+οὐδὲ ψεύδεται - ὅταν ἐν τῇ γῇ γράφῃ καὶ τὴν ποδιαίαν
+’φῇ μὴ ποδιαίαν· οὐ γὰρ ἐν ταῖς προτάσεσι τὸ ψεῦδος), et
+ab Alexandro (fol. l56a ed. lunt. 15213 eandem etiam exhi-
+

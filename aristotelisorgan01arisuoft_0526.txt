@@ -1,0 +1,52 @@
+492 Analytica priora.
+
+tur quod colligitur es iis quae praecesserunt. b3 Si B neces-
+
+sario sequitur ex A, idem etiam ea· non A necessario sequi
+
+non potest.
+
+56118, cf. quae diximus ad 49a5.
+
+561) 37 τοιούτων longe rectius quam τούτωνε namque nihil de-
+monstrat Aristoteles de ii· ipsis terminis quos proponit (cf.
+49 1⁸33 sqq), sed hanc conclusionem provenire ostendit, si ter-
+mini tales sint quales in exemplo proposuit.
+
+57a1 Verba μέλαν-κύκνος-ἄψυχον non ab eadem manu pro-
+fecta esse qua scripta sunt quae proxime antecesserunt facile
+intelligitur: nam modo dictum est manere eosdem terminos,
+etiam si minor falsa sit et maior vera: tamen alii termini il-
+lico adiiciuntur, quos ex Alexandri —hic enim non sine causa
+Aristotelem reprehendit, quod etiam huic modo eosdem ter-
+minos convenire opinatus sit — commentario deperdito, in quo
+hoc exemplum legebatur, quamquam diverso terminorum ordine
+μέλαν-ἄψυχον-κύκνος (nam hoc ordine terminorum etiam
+Aristoteles in tertia figura uti solet), petitos esse apparet ex
+schol. 189a5—11. Boethius autem eundem exhibet termino-
+rum ordinem: „fligi-um, inanimatum, cygnus''.
+
+5⁷:24 Omisimus μὲν post κύκνῳ cum codd. Bfmc et Boethio: so-
+let enim omitti ab Aristotele in exemplis quae affert, v.56h13,
+29 al. Accedit quod μὲν alieno loco intrusum est: nam ut sibi
+responderent μὲν . . . δέ, non scribendum erat κύκνῳ μὲν
+παντὶ ζῷον, sed ζῷον μὲν παντὶ κύκνῳ.
+
+57823 δέδεικται, v. 54 al: nam si in secundo syllogismo primae
+figurae utramque propositionem sumimus falsam ex parte, plane
+easdem propositiones habebimus.
+
+5⁷a33 οὐδὲν γὰρ διαφέρει . . . Conclusio quum non pendeat e
+veritate vel falsitate propositionum, sed e modo praedicandi
+qui in iis obtinet, eadem erit, sive pro vero sumitur quod ex
+parte falsum est sive quod vero contrarium: quare non refert
+utrum quod de nullo praedicari debeat an quod de aliquo su—
+mamus praedicari de omui: nam utique sumimus proposi-
+tionem affirmantem de omni. Item sumimus propositionem
+de omni negantem, sive secundum veritatem affirmari de-
+bet de non omni sive etiam de omni. Sin autem ex iisdem
+propositionibus sive veris sive falsis eadem conclusio provenit,
+iisdem terminis uti licebit et in universalibus et iu particula-
+ribus syllogismis, hoc solo discrimine, ut quod in particulari-
+bus ex parte falsum sumatur id in universalibus vero contra-
+

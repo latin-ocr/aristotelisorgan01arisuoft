@@ -1,0 +1,46 @@
+456 Analytica priora.
+
+memorat, syllogismos κατὰ μετάληψιν dictos vel κατὰ ποιό-
+τητοεἸ Quid sit μετάληψις explicuimus ad 41a39: syllogismi
+autem κατὰ ποιότητα aut iidem sunt atque qui dicuntur κατὰ
+μετάληψιν aut ex numero eorum, quia quod Aristoteles dicit
+ys. 18 ad utrosque pertinet. Nihil clari de iis tradunt veteres
+intpp.; videtur autem syllogismus „secundum qualitatem'' ap-
+pellari quo aliquid colligitur de gradu qualitatis alicuius rei.
+Nam Philoponus (schol. 178b9) eos syllogismos appellatos
+esse dicit κατὰ ποιότητα, ὅσοι ἐκ τοῦ μᾶλλον ἐπιχειροῦσιν
+ἢ ἐκ τοῦ ἧττον ἢ ἐκ τοῦ ὁμοίου. Falsum certe estquod
+dicit Zell (p. 266 not.), eosdem syllogismos etiam appellatos
+esse κατὰ πρόσληψιν; aperte enim contradicit Philoponus schol.
+178117, qui a Stoicis πρόσληψιν eodem sensu dictam esse re-
+fert quo μετάληψιν a Peripateticis. Quos Theophrastus ap-
+pellaverit συλλογισμοὺς κατὰ πρόσληψιν videbimus ad 58 bs. —
+His igitur syllogismis, ait Aristoteles, si quaeritur medius ter-
+minus, quaestio eadem ratione instituenda est atque in cate-
+goricis: nam categorice etiam in his profertur medius termi-
+ιιιιε, siquidem quaestio non vertitur ἐν τοῖς ἐξ ἀρχῆς, h. e.
+non iniis quae cum conditione enuntiata sunt, sed in iis quae
+accepta sunt et concessa tanquam fundamentum syllogismi (ἐν
+τοῖς ὑποκειμένοις). ·-- De iis syllogismis, quorum et utraque
+propositio et conclusio cum conditione profertur, non cogita-
+visse >videtur Aristoteles: ostendunt certe quae dicit vs. 20
+quo tempore haec scripsit eum nondum satis inquisivisse in
+naturam syllogismorum hypotheticorum.
+
+45b21 Tangit aliam concludendi rationem, qua alterum de al-
+tero universo praedicari colligitur in tertia figura conditione
+quadam assumta. Etenim si ponimus Γ = Η, praedicabitur
+A de omni Γ et E de omni Γ, unde, si assumimus E non
+praedicari nisi de solo termino H (sive Γ), colligere lice-
+bit A praedicari de omni E: nam quia E de solo Γ, con-
+sequitur Γ de omni Ε, quocum si coniungitur A de omni Γ,
+
+’ consequitur A de omni E. — Reprehendit Philoponus, quod
+non dixerit μόνον vs, 24, sed reprehendit quod non satis in-
+tellexit: etenim si H est ἄνθρωπος, Ε γελαστικόν, bene ha-
+beut omnia. ·-- Deinde si· est A =H et E de solo H prae-
+dicatur, unde etiam H de omni E, consequitur A de nullo
+E: nam A praedicatur de nullo A et A (Η) de omni Ε.
+
+45 b34 ἐπὶ τῶν ἄλλων κατηγοριῶν. Similiter res se habet, si
+

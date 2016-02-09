@@ -1,0 +1,49 @@
+494 Analyticu pri-ora.
+
+sin nutem neccsse est Β esse magnum, si A album non sit
+(vs. 12) -—- nam quum posuerimus vere et necessario concludi
+B csse magnum, si A sit album, deinde autem fieri posse sum-
+serimus, ut etiam e falsis propositionibus vera conclusio ne-
+cessario proveniat, concedere debebimus, quod necessario con-
+cludi ·possitB esse magnum, etiam siA album non sit — ef-
+ficitur ex his propositionibus ad syllogismum hypotheticum qua-
+lem supra habuimus coniunctis B esse magnum, si B magnum non
+sit, quod absurdum est (vs. 13 sq.). Habuimus enim (vs. 14—-1'0
+A necessario non esse album, si B non sit magnum3 si igitur
+(quod deinde sumsimus) Β est magnum, si A album non est,
+Β esse magnum, si nonsit magnum, colligitur ὡς διὰ τριῶν
+(quod non recte explicuit Philoponus), h. c. eodem modo co-
+gitur per duos terminos AB atque per tres terminos ΑΒΓ
+syllogismus hypotheticus quem exposuimus vs. 6—9. Cf. quae
+diximus ad 44h6.
+
+Cap. 5. Circulo demonstratur, si altera propositio conclu-
+ditur ea: conclusione coniuncta cum altera propositione con-
+versa. 32 Vere non demonstratur circulo uisi per terminos
+qui inter se convertuntur, 58a15 secl ne per hos quidem aliter
+demonstratur, quam ut pro concesso sumatur quod acl demon-
+strandum propositum sit. 21 Secundo modo primae figurae
+utraque propositio demonstratur circulo, sed diverso modo. 36
+In particularibus syllogismis maior non demonstratur, minor
+demonstratur, sed alia ratione in quarto modo atque in tertio.
+
+5711 18 Respicit ad hunc locum ⁷3a14 sqq., qui locus cum no-
+stro conferendus est inde a 'mh-⁴32.
+
+571225 Dedimus ὑπάρχον pro ὑπάρχειν, de quo v. quae diximus
+ad 352116.
+
+58a14 ὡς πρότερον εἴπομεν, conversis propositionibus quas con-
+vertere non licet.
+
+58a15 τούτοις, h. e. τοῖς ἀναστρέφουσιν.
+
+58:122 Restituimus quod meliores codices praebent omnes ὖποέρ-
+χειν pro ὑπάρχον. ¹
+
+58³2? οὐκέθ’ ὁμοίως ἄντιστρεπτέον . . . Ut demonstremus pro-
+positionem ΒΓ, non item convertenda erit propositio AB ut-
+que modo convertimus propositionem ΒΓ (integram enim con-
+vertimus), ut demonstretur AB: nam ut cogatur B praedicari
+de omni Γ, sumendum est Β praedicari de eo omni, de quo
+

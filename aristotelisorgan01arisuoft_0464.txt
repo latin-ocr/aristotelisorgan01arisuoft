@@ -1,0 +1,48 @@
+430 q Analytiea. priora.
+
+genera, qui externam enunciationum formam, eos quatuor eon-
+
+* enituere necesse est. Quare Galenus non addidit, ut vulgo
+putant, quartam tribus prioribuS‚ sed tres Aristotelis in qua-
+·tuor novas convertit3 nituntur enim plane alio dividendi fun-
+damento''. Unde apparet, quam iniquum sit qnod dixit Gum-
+posch p. 119 „Boi dieser >schrift darf man nicht vergessen
+den Empirismus und den Zweck des Aristoteles. So hiitte
+er bestimmt auch die* vierte Figur des Galenos herausgeho-
+ben, wiiren die Schliisse dieser ,Figur so hiiufig als die der
+audern'’ et Ritter Gesch. der Phil. 111. p. 93 not. 2 „Diel's mul's
+dem Aristoteles anerding· als Fehler angerechnet werden, weil
+er zu beweisen sucht, dass nur in den drei Figuren geschlos-
+sen werden kiinne''. Cf. 47a40-b 5.
+
+412118 Non refert utrum plures sumantur medii termini an unus:
+eadem enim manet demonstrandi ratio, quamvis conclusionum
+numerus augeatur.
+
+41a24 Quod ad demonstrandum propositum est (τὸ ἐξ ἀρχῆς)
+probatur ea conditione (ἐξ ὑποθέσεως), ut aliquid admitten-
+dum sit quod concedi nequeat, si ponatur contrarium (intell.
+τοῦ ἐξ ἀρχῆς).
+
+41:226 διὰ τὸ γίνεσθαι τὰ περιττὰ . Ios. Blancanus (Aristo-
+telis loca mathematica coll. et explicata. Bonon. 1615) hunc
+locum silentio praeteriit. Iul. Pacius in comm. p. 15:31» init.
+nos delegat ad Alexandri explicationem, quam confusa-m et
+perplexam Brandis inter scholia collecta non recepit: et nos
+quidem Alexandri locum non corrigimus, quamquam ex iis
+quae dicemus patebit, quomodo restituendus sit. Siquidem ex-
+planatio quam ille proposuit haec est. Quadrati αβγδ sit
+diametros βγ, latus αβ. Iam si sumimus σύμμετρον (rationa-
+lem, quod dicunt) esse diametrum et latus, duo numeri inve-
+niri poterunt, qui rationem exprimant quam diametros et la-
+tus inter se habeant: qnare ‘erit βγ : αβ == a ε b. Numeri
+autem a et b ita comparati esse debebunt, ut aut uterque sit
+impar, aut unus par, alter impar: nam si uterque esset par,
+*dimidiae partes eorum, quae eandem rationem exprimerent,
+sumendae essent. Quod ut signis declaremus, proportionem
+scribamus hoc modo:
+
+(2η 4-1) : 2m .
+Byzocss= 2η ;(2ηι-“ι-1)
+(2η -1-1) ι (⁶2m -i- 1)
+

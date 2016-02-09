@@ -1,0 +1,48 @@
+Analytica priora. 429
+
+non nt certum quidem, imo ne ut veri simile quidem, sed po-
+nat quodcunque sit eo consilio, ut qnod iude consequatur
+perspiciat.
+
+40b30 Exponit, qualia esse debeant ex quibus fiat syllogismus.
+
+40b32 τὸ ἐξ ἀρχῆς . . . Quod ab initio ad demonstrandum¹ pro-
+positum est, sumetur, quasi esset demonstratum, h. e. fiet pe-
+titio principii, quam dicunt: nam ἁρχὴ (principium) hoc loco
+est id cuius causa quaestio instituitur, id quod demonstratio
+assequi vult, τὸ αἴτιον τελικόν, quod dicunt intpp. nd Anal-
+post. ΙΙ init.: male igitur chl „so ist diel's eine Annahme des
+Grundes”.
+
+40b33 Praedicetur igitur A de termino ῦς iam si C de nullo
+alio, neque alius de termino C, neque de termino A alins,
+nihil colligi poterit, quia ex propositione Ac sola nihil conse-
+quitur. Si igitur (vs. 3⁴1) sumsimus A praedicari de termino
+C, ut fiat syllogismus, etiam alia propositio assumenda erit,
+quae cum illa ita possit coniungi, ut aliquid inde consequatur.
+Quod si fieri volumus, necesse est, ut aut A de alio termino
+aut de termino A alius aut alius de termino C aut C de alio
+praedicetur. Apparet autem, quamvis fiat syllogismus, nihil
+posse confici ex iis ipsis quae sumsimus, si altera propositio
+ita comparata sit, ut vel primae vel secundae vel tertiae con-
+ditioni satisfaciat (nam premenda sunt verba οὐκ ἔσται διὰ
+τῶν εἰλημμένων vs. 39, h. e. non erit perfectus syllogismus,
+quo recta via a propositionibus ud conclusionem procedere li-
+ceat): restat igitur, ut C praedicetur de alio termino. Nam
+huic uni conditioni si satisfactum erit, continuo proveniet con-
+clusio. lam si C (vs. 40) non praedicatur de termino Β, sed
+de quocunque alio, non fit conclusio AB, qnam conficere vo-
+lebamus3 sed haec quidem non exibit, nisi C aut praedicetur
+de ipso termino B aut de alio, qui praedicetur de termino Β.
+
+41αὸ ὁ δὲ τοῦδε πρὸς τόδε, syllogismus qui tendit ab altero
+termino (a maiore) ad alterum (ad minorem): monstrat enim
+viam qua pervenimus ab altero ad alterum a priori distantem.
+Verba ὅ δὲ τοῦδε '1 προτάσεων a Zellio plane omissa
+video, quamquam exempla quae afferuntur vs. 8 sq. illa optime
+habere probant: nam priori exemplo proponitur ὁ πρὸς τόδε
+συλλογισμός, altero ὁ τοῦδε πρὸς τόδε.
+
+41016 ταῦτα δ’ ἐστὶ τὰ εἰρ. ox„ Trdlbg. Elem. log. p. 95 (cf.
+not.) „Qui terminorum naturam spectant, eos tria figurarum
+

@@ -1,0 +1,47 @@
+Analytica priora. 885
+
+figuris non cogitetur: sie enim iam supra commemoravimus
+p. -268 τὰ σχήματα τῆς κατηγορίας vel τῶν κατηγοριῶν,
+v. 1017023, 10241213, lomna& sic dicit 102924 τὸ σχῆμα
+τῆς ἰδέας. 1456119 τὰ σχήματα τῆς λέξεως, cf. 1408b21 τὸ <
+δὲ σχῆμα τῆς λέξεως δεῖ μήτε ἔμμετρον εἶναι μήτε ἄρῤυθμον.
+lb. 2³ ὁ δὲ τοῦ σχήματος τῆς λέξεως ἀριθμὸς ῥυθμός ἐστιν.
+, 13181126 δεῖ νομίζειν καὶ τοῦτ’ εἶναι σχῆμά τι δημοκρατίας.
+Cf. ὁμοιοσχήμων 2Π)11 et quae diximus ad 36:27. Biese
+Ι. p. ’Π not. et quae nos ad 261134. -— Adscribimus tabulam‚‘
+qua omnes modi syllogismorum, qui fiunt et in prima figura
+et in reliquis, continentur. Servavimus ordinem, quem Aristo-
+teles in exponendis syllogismis secutus est, quamquam ipsum
+in sequentibus non eundem semper ordinem observavisse vi-
+debimus. Ut intelligantur quae sequuntur, tabula in memoria
+haerere debebit.
+
+1 α’. τὸ A κατὰ παντὸς τοῦ Β, β’. τὸ Α κατὰ μηδενὸς τοῦ Β,
+
+τὸ Β κατὰ παντὸς τοῦ Γ, τὸ Β κατὰ παντὸς τοῦ Γ,
+τὸ Α κατὰ παντὸς τοῦ Γ. τὸ A κατὰ μηδενὸς τοῦ Γ.
+γ’. τὸ Α κατὰ παντὸς τοῦ Β, ’ δ’. τὸ Α κατὰ μηδενός τοῦ Β,
+τὸ Β κατὰ τινὸς τοῦ Γ, τὸ Β κατὰ τινὸς τοῦ Γ,
+τὸ A κατὰ τινὸς τοῦ Γ. τὸ Α κατὰ τινὸς τοῦ Γ οὔ.
+11 α’. τὸ Α κατὰ μηδενὸς τοῦ 13, β’. τὸ A κατὰ παντὸς τοῦ Β,
+τὸ Α κατὰ παντὸς τοῦ Γ, vd A κατὰ μηδενὸς τοῦ Γ,
+τὸ Β κατὰ μηδενὸς τοῦ Γ. τὸ Β κατὰ μηδενὸς τοῦ Γ.
+γ’. τὸ A κατὰ μηδενὸς τοῦ Β, δ’. τὰ A κατὰ παντὸς τοῦ Β,
+τὸ Α κατὰ τινὸς τοῦ Γ, τὸ Α κατὰ τινὸς τοῦ Γ οὔ,
+τὸ Β κατὰ τινὸς τοῦ Γ οὔ. τὸ Β κατὰ τινὸς τοῦ Γ οὔ.
+III α’. τὸ Α κατὰ παντὸς τοῦ Γ, β’ τὸ Α κατὰ μηδενὸς τοῦ Γ,
+τὸ Β κατὰ παντὸς τοῦ Γ, τὸ Β κατὰ παντὸς τοῦ Γ,
+τὸ A κατὰ τινὸς τοῦ Β. τὸ Α κατὰ τινος τοῦ Β οὗ.
+γ’. τὸ Α κατὰ τινὸς τοῦ Γ, δ’. τὸ A κατὰ, παντὸς τοῦ Γ,
+τὸ Β κατὰ παντὸς τοῦ Γ, τὸ Β κατὰ τινὸς τοῦ Γ,
+io] κατὰ τινός τοῦ Β. τὸ A κατὰ τινὸς τοῦ Β.
+ε’. τὸ A κατὰ τινὸς τοῦ Γ οὔ, ς’. τὸ Α κατὰ μηδενὸς τοῦ Γ,
+τὸ Β κατὰ παντὸς τοῦ Γ, τὰ Β κατὰ τινὸς τοῦ Γ,
+τὸ A κατὰ τινὸς τοῦ Β οὔ. τὸ Α κατὰ τινὸς τοῦ Β οὔ.
+
+Tenendum est ultimum modum secundae et quintum tertiae
+figurae non demonstrari nisi deductione facta ad absurdum.
+Appuleius in explicanda prima figura Theophrastum sequitur,
+
+qui novem modos proposuit. Namque ex «μιαιῑῑιιοι-25 modi, quos
+

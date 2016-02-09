@@ -1,0 +1,48 @@
+888 ‘ Analytica priora. ’
+
+τὸ Ν τῷ Ξ. Nostram lectionem et propter emendationis sa-
+'cilitatem et propter codicum vestigia, quae secuti sumus, prae-
+tulimus: Bekkerus in ed. minore Berol. 1843 Trendeleubur-
+gii emendationem recepit.
+
+2¹1a14 Haec (dicit 11 α’ et II β’) etiam demonstrantur deductione
+facta ad absurdum, qua quod conclusioni repugnat coniungitur
+cum propositione maiore, ut concludatur quod repugnet pro-
+positioni minori. fit autem deductio syllogismi ll α’ per 1 δ’,
+deductio syllogismi ΙΙ β’ per 1 γ’.
+
+2⁸1b2 De eadem συζυγίᾳ loquitur de qua a 3⁷, licet aliter ex-
+pressa propositione minore.
+
+27b17 Quid sit quod vitiosi aut certe imperfecti habeat haec
+demonstrandi ratio, qua exemplis expositis non fieri syllogi-
+smum probatur, hoc loco apparet. Nam ut colligat quod vult,
+Aristoteles coactus est ad aliam rationem confugere, qua fidem
+faciat ei quod contendit (vs. ⁶20). Quod quidem antequam ag-
+greditur, deductione facta ad absurdum (vs. 18) ostendit ter-
+minos τοΰ παντὶ ὑπάρχειν inveniri non posse.
+
+2⁸1b20 ἐκ δὲ τοῦ ἄδιορίστου δεικτέον. Male Zell „Es ist das-
+selbe nun noch von nnbestimmt ausgedriickten Vordersiitzen
+nachzuweisen”, quamquam recte 29a26 „Man muss diel's
+aus der Natur des Unbestimmten zeigen''. Namque ἐκ τοῦ
+ἄδιορίστου ,est ἐκ τοῦ ἄδιόριστον εἶναι τὴν κατὰ μέρος πρά·
+τοισιν. Quum terminis expositis probari non possitfnon fieri
+syllogismum, alia demonstratione opus est. Eandem iam ha-
+buimus 26b14 sqq.
+
+2⁷b27 τοῦ. δὲ παντὶ οὐκ ἔσται λαβεῖν. Explicemus quod Ari-
+stoteles innuit, ut patefiant etiam ea quae praecesserunt, si
+cui minus clare ab Aristotele exposita-esse videantur, Namque
+si ponimus N praedicari de omni X, M autem de omni N
+praedicari concessum erat, sequitur M praedicari de omni X,
+quod hypothesi repugnat, qua M non nisi de‘ parte termini X
+praedicari diximus. - Apparet inde ambiguitas, in qnam Ari-
+stoteles incidit, quum propositionem particularem indefinitam
+appellaret. Etenim si et in iis quae demonstravit vs. 18* sq.
+et in iis quae nos modo diximus particularis non acciperetur
+sensu proprio, ut esset ea quae de altera parte affirmaret quod
+de altera negandum esset, sed idem valeret quod indefinita,
+ut de altera quidem parte affirmaret quod ⁶fortasse non nega-
+ret de altera, omnis haec demonstrandi ratio vana esset et
+

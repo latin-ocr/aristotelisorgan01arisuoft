@@ -1,0 +1,52 @@
+Analytioa priore. 441
+
+fiat, supervacaneus sit terminus Ι). Hoc quidem venun est,
+sed Aristoteles ubi dicit (vs. 9) numerum terminorum unitate
+superare numerum propositionum, nihil dicit de conclusione,
+num bene habeat necne. Numerus διαστημάτων, inquit, ne-
+que augetur neque minuitur, sive terminus D medium locum
+occupat, sive etiam (quod in sorite quidem non debet fieri)
+primum vel ultimum.
+
+42b11 Dedimus αἰεὶ ex optimis codd. et hic et 48a41‚ quod
+etiam Bkk. saepius retinuit, v. 20‘In3, 63 1333a21, 29.
+
+4211 13 Alexander vocem περιτταὶ omittendam censuit, quam, quum
+ferri possit, invitis codicibus e contextu eiicere non ausi sumus.
+
+42b16 τὰ δὲ συμπεράσματα . . . Conclusionum autem non eadem
+ratio erit atque terminorum et propositionum: nam numerus
+conclusionum, quae novo termino adiecto fiunt, unitate minor
+est quam numerus omnium terminorum qui iam antea dati erant.
+
+42b23 ὁμοίως δὲ. . . Eodem modo conclusionum numerus au-
+gebitur, si plures alii termini adduntur. ‘— κᾶν εἰς τὸ . . . Si
+novus terminus non in fine adiicitur, sed interiicitur iis qui iam
+dati erant, numerus conclusionum, quae inde nascuntur, idem
+erit, ac si in fine adiectus esset, sed in conclusionibus hoc
+discrimen erit, quod una propositio demonstratur, quae antea
+non demonstrata sumta erat. Si in sorite AB, Bc, CD post
+primam propositionem adiicitur terminus M, series propositio-
+num exit haec: AB, BM, MC, CD: conclusiones igitur acce-
+dunt hae: AM, BC, Ml).
+
+42b25 ὥστε πολὺ . . . Numerus conclusionum multo maior erit
+numero terminorum. Hoc quidem certum est, sed miror, quod
+in numerum conclusionum nou amplius inquisivit. Apparet au-
+tem ex tribus propositionibus, quae soritem constituant, fieri
+tres conclusiones, ex quattuor fieri sex, ex quinque decem:
+colliguntur enim ex propositionibus ΑΒ, BC, CD, DE, EF con-
+clusiones AC, AD, ΑΕ, AF; BD, ΒΕ, BF3 GE, CF; DF. Gre-
+scit igitur numerus conclusionum secundum numeros triangu-
+
+los (Trigonalzahlen). Sit numerus propositionum =.n, numerus
+'ssiam'
+Fient igitur e viginti propositionibus quae soritem faciunt con-
+clusiones centum et nonaginta, quarum undeviginti a terminoA
+
+incipiunt, octodecim a termino B et sic porro. ἱ
+
+terminorum =n÷l, erit numerus conclusionum =
+
+ 
+

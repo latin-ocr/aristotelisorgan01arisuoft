@@ -1,0 +1,49 @@
+Analytica priora. 455
+
+ferunt: quod ita probat Aristoteles, ut demonstret, quomodo
+servatis iisdem terminis altera ad alteram redigatur. Exempli
+cansa, ait, siA praedicari de nullo E deductione facta ad ab·
+surdum demonstratum est eo, quod fieri non potest, quiane
+aliquoE praedicetur, quia, si hoc detur, tollatur quod ab initio
+concessimus (namque si A ‹le aliquo E, consequitur etiam Β
+
+. de aliquo E, quod 'fieri nequit, quia sumsimus ΒΕΘ 44:225),
+clarum est deductionem niti iisdem propositionibus, ex quibus
+flat continua demonstratio: continua enimait, si B'de nullo
+E et de omni A praedicari ponimus, deductio autem sumsit
+fieri non posse, quinB de aliquoE praedicetur, quod idem est.
+Brevius hoc dixit Aristoteles: est enim cautus et consideratus
+in rebus excogitandis, sed in dicendo praeceps haud raro et
+praeproperus, dum rem ipsam perspectam habeat. Ut dedu-
+ctionem reduximus ad continuam demonstrationem iisdem pro-
+positionibus. nixam, sic etiam continua demonstratio redigitur
+ad deductionem (45b1—3) non nova quadam propositione as-
+sumta, sed ea quae conclusionem falsam esse dicit.
+
+45b3 τινὶ ante διὰ omisimus codices secuti qui cum Boethio
+conspirant, quia veri similius est illud adiectum esse quam
+praetermissum, si repertum fuisset: neque enim ab Aristotelis
+usu alienum est, ut omittat quod postulet quidem orationis
+perspicuitas, ita tamen, ut ex contrario quod praecesserit facile
+eliciatur, si non adiectum sit. Sic 53b40 omisit παντί. -
+
+V Vs. 4 ἐν ἅπασι recte explicat cod. n cum Alexandro τοῖς δι’
+ἀδυνάτου.
+
+45b5 ὅρον ἄλλον, in nostro exemplo terminum Β, quem de ali-
+quo E praedicari contendit falsa deductionis conclusio: quae
+quidem conclusio si convertitur in propositionem repugnan-
+tem (Β (16 nullo E praedicatur), et si cum hac coniungitur
+eadem propositio (ΑΒ) quam etiam deductio sumere debebat,
+e deductione ad absurdum fit continua demonstratio.
+
+451» 14 Correximus ταύτὰ cum cod. G, quod fecissemus, etiam si ne
+in uno quidem libro exstaret: est enim emendatio et levis et
+necessaria. Namque apparet Aristotelem hoc loco repetere
+summam eorum quae modo exposuit3 omnis autem disputatio
+quae praecessit in eo erat, ut eodem termino medio inveniendo
+et deductionem et continuam demonstrationem niti doceretur.
+
+4512 1⁸1 Praeter syllogismos qui fiunt per deductionem ad im-
+possibile aliam speciem syllogismorum hypotheticorum com-
+

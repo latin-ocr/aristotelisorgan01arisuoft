@@ -1,0 +1,47 @@
+Analytica priora. 417
+
+Sin autem lectionem μηδενὶ cum Alexandri explicatione admit-
+timus, sumit Aristoteles falsam conclusionem (τὸ A τῷ Γ μη-
+δενὶ ὑπάρχειν), omittit quod sumi debebat eius⁴ contrarium,
+adiicit propositionem minorem quae iam concessa est. Quid
+mirum igitur, si nihil absurdi exit, quum sumatur 'quod fal-
+sae conclusioni contrarium est‘z Nonne hoc indignum Aristo-
+telis acumine? At fortasse falsa est explicatio quam Alexan-
+der proposuit et vera mens Aristotelis haec est, ut dicat „de-
+ductio ad absurdum in hoc syllogismo locum non habet: nam
+si quis dicat veram conclusionem non esse τὸ Α τῷ Γ ἐνδέ-
+χεσθαι μηδενὶ ὑπάρχειν, sed τὸ Λ τῷ Γ μηδενὶ ὑπάρχειν,
+nibil absurdi colligi poterit ex hac conclusione& Sed ne baec
+quidem interpretatio admitti potest: aperte enim falsum esset
+quod Aristoteles diceret. Nam ex propositionibus τὸ A μη-
+δενὶ ὑπάρχειν τῷ Γ et τὸ A τῷ Β ἐνδέχεσθαι μηδενὶ ὑπάρ-
+χειν colligitur (v. cap. 15. syll. Vl), conversa propositione ΛΓ,
+τὸ Γ ἐνδέχεσθαι μηδενὶ τῷ Β ὑπάρχειν, qnod repugnat pro-
+positioni minori (vs. 19) quam concessimus. His expositis
+iam clarum est, quo iure servaverimus lectionem quam Bkk.
+dedit vet. interpretis lat. et Boethii auctoritatem secuti, qua
+lectio τινὶ pro μηδενὶ commendatur (v. Buhle animadvv. critt.).
+Sententia autem haec est vs. 20-24: „Conclusio erit τοῦ ἐν·
+δέχεσθαι μὴ ὑπάρχειν, non τοῦ μὴ ὑπάρχεινε nam in propo-⁷
+sitione maiore sumsimus τὸ ἐνδέχεσθαι μηδενί,“ et deductione
+quidem ad absurdum haec conclusio (τοῦ ἐνδέχεσθαι μηδενί)
+probari nequit. Etenim si quis poneret quod conclusioni con-
+trarium est τὸ Α τῷ Γ τινὶ ὑπάρχειν intell, ἐξ ἀνάγκης (quod
+intelligendum esse aperte docent quae praecesserunt), quum
+concessum sit τὸ Α τῷ Β ἐνδέχεσθαι μηδενὶ ὑπάρχειν, nihil
+inde colligeretur quod absurdum esset.''
+
+36a26 ὅταν μὲν . . . Significat syllogismum V. — Vs. 27 ὅταν
+δὲ . . . Sin autem B necessario praedicatur de nullo G, A vero
+potest praedicari de omni B.
+
+36:128 οὐδ’ ὅταν . . . Tangit syllogismum VI, quamquam non
+exponit: sin autem propositiones buius syllogismi transponan-
+tur, ut altera alterius locum occupet, non fieri syllogismum
+terminis expositis demonstrat.
+
+36a32 τὸν αὐτὸν δὲ τρόπον. Eodem modo res se habet in
+
+syllogismis particularibus, quia in prima et secunda figura syl-
+1. 27
+

@@ -1,0 +1,49 @@
+Analytica priora. 411
+
+nam Aristoteles videtur scribere voluisse νῦν δ’ ὅμοιον λέ-
+γουσιν, ὡσπερανεὶ καὶ άπὸ τῶν ὑποδημάτων duodenos: etenim
+καί, quod latet in particula κᾶν, cum sequentibus coniungen-
+
+dum est.
+
+34240 διὰ τοῦ τρίτου σχ., h. e. pcr syllogismum ln ἐς uam
+propositio maior quam habuimus vs. 38 τὸ μὲν . . . Γ de
+parte negat: quare cod. n παντὶ addidit ante τῷ. ·- Vs. 41
+παντὶ ἐνδέχεσθαι ὑπάρχεινε nam τὸ ἐνδέχεσθαι ὑπάρχειν oon-
+sequens est τοῦ ὑπάρχειν, quod sumsimus vs. 34.
+
+34b3 ποιῆσαι τὸ ἀδύνατον. Νοη facit deductionem ad absur-
+dum qualis fieri solet posito eo, quod conclusioni repugnat,
+h. e. posita propositione τὸ A μὴ ἐνδέχεσθαι παντὶ τῷ Γ,
+sed ex iis ipsis propositionibus quas initio habuimus, ita ta-
+men sumtis, ut falsum sit quod edicant neque tamen fieri ne-
+queat, concludit. Ex his igitur colligitur τὸ A παντὶ τῷ Γ
+ἐνδέχεσθαι, quod quamquam falsum esse potest, ἀδύνατον
+esse non potest. lam ut fieret deductio, sumendum erat τὸ Α
+μὴ ἐνδέχεσθαι παντὶ τῷ Γ, quod ἀδύνατον esse patet, quia
+τὸ Α παντὶ τῷ Γ ἐνδέχεσθαι non ἀδύνατον esse intellexi-
+mus: sin autem illud άδύνατον, apparet conclusionem esse
+debere τὸ A παντὶ τῷ Γ ἐνδέχεσθαι. —— Sic excusanda certe
+videtur demonstratio, qua in his usus est: in errorem induxit
+Aristotelem duplex oppositio τοῦ ἀδυνάτου, cui opponitur et
+τὸ δυνατὸν et τὸ ἀναγκαῖον. Namque si A est ἀδύνατον,
+non sequitur Non-A esse ἀναγκαῖον, sed nihil sequitur nisi
+Non-A esse οὐκ ἀδύνατον s. δυνατόν.
+
+34ὴῖ Quum Aristoteles hic doceat omni tempore easdem esse
+debere propositiones, ex quibus flat syllogismus, ut quod edi·
+cant non suspensum sit ex causis externis, mirum est, quod
+non intellexit quam dubia et incerta sit ea demonstrandi ratio,
+qun magis exponit quam colligit, quod vult, terminis allatis, qui
+eam inter se rationem habeant quam res postulet.
+
+34b10 οὐκ ἔσται συλλογισμός, quamquam ex propositionibus
+quae nonnisi de praesenti tempore intelligantur, conclusionem
+fieri de tempore praesenti nemo erit qui neget. Quum autem
+τὸ ἐνδέχεσθαι, τὸ παντὶ ὑπάρχειν et quae his similia suut
+temporis rationem non admittant, sed in cogitatione sola po-
+sita sint (sie sind etwas rein Logisches)‚ apparet etiam con-
+clusionem quae inde fiat temporis rationem excludere.
+
+34b24 τῷ Β ὑπάρχειν, intell. ἐξ ἀνάγκης, quod nou addidit,
+

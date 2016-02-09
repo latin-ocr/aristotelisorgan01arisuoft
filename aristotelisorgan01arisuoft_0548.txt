@@ -1,0 +1,45 @@
+514 Analyticn prim-o.
+
+qui lineas aequidistautes inducendas esse docent, ut *aequa-
+les sint ii anguli, quorum aequalitas demonstrari non potest
+nisi cx eo quod lineae sumuntur aequidistantes.
+
+65a10 Tenendum est Aristotelem exponere quomodo fiat petitio
+principii in prima figura. Si iu syllogismo, quo cogitur A prae—
+dicari de Γ per medium terminum B, propositio maior AB
+non magis certa et manifesta est quam conclusio ΛΓ, non rc—
+cte demonstratur AF per propositiones AB et ΒΓ. Si igitur
+(vs. 14) termini B et Γ ita se habent, ut sint iidem, sive per-
+mutari possint inter se sive alter alterum complectatur ——-· nou
+recte hoc intellexit Iul. Pacius qui dixit aut Β idem esse quod
+Γ aut cum eo permutari posse aut de eo praedicari: apparet
+enim e vs. 22 verbis ὥστε ταύτὸν εἶναι vs. 14 non significari
+tertiam quandam rationem terminorum B et Γ, sed eam ra-
+tionem, qua contineantur reliquae quae per ἢ . . . ἢ adiectae
+sint. B et Γ, ait, sunt iidem aut itu, ut alter ponatur pro al-
+tero siue discrimine, aut ita, ut alter in altero insit sicut in
+genere species. Quid sit cur Zellius ἐνυπάρχει quam ὑπάρχει
+vs, 15 legere maluerit, equidem non intelligo: res certe plane
+eadem manet -— assumta propositione AB fit syllogismus in
+quo admittitur petitio principii. Namque si permutari possunt
+Β et Γ, propositionem AB per AF et ΓΒ item demonstrare
+licebit atque demonstravimus AF per AB et ΒΓ, quum pro—
+positio AF neque magis neque minus manifesta sit quam AB,
+ut liceat sumere AF, si liceat ΑΒ. 'lam vero (νῦν δὲ vs. 1⁷,
+h. e. εἰ μὴ ἀντιστρέφει) si B et F permutari nequeunt, quia
+alterum altero latius patet, hoc quidem (τοῦτο, h. e. τὸ μὴ ἄν·
+nemimem), quia propositio FB particularis esse debet, prohi-
+bet, ne propositione AB demonstrata per AF et FB fiat petitio
+principii, ipsa demonstrandi ratio non prohibet. Qui vero con-
+versionem facit (vs. 18) principii petitionem admittit et con-
+versione fecta per tria (cf. vs. 1—3, ubi litteris ΑΒΓ propo-
+sitiones significantur) conclusionem reducit ad id per *qnod de-
+monstrata est: uam si ponitur propositio AB, adiuncta pro-
+positione BF consequitur ΑΓ; si ΑΓ, adiuncta propositione
+FB revertimur ad AB. -‘- Particulam ὥς post ἀντιστρέφοι
+vs. 19, quam neque Philoponus videtu-r habuisseneque habuit
+Boethium, quibuscum vet. intp. cod. Goth. et optimi codices
+conspirant, omisimus.
+
+65⁸ 19 Sin autem propositio ΒΓ non magis certa est et mani-
+

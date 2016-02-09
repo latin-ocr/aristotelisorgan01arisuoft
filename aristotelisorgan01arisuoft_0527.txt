@@ -1,0 +1,44 @@
+Analytica priora. 4oe
+
+rium sit. — Praeterea notandum est, quod Aristoteles liberius
+utitur genitivis absolutis: exspectabas enim, ut diceret τὸ μη-
+δενὶ ὑπάρχον παντὶ λαβεῖν ὑπάρχειν καὶ τὸ τινὶ ὑπάρχον. . .
+Similia habemus 14823 ὁρᾶν δὲ καὶ εἰ μὴ λεγομένου κατὰ
+στέρησιν στερήσει ὡρίσατο. '1641115 εἰ γὰρ πεπλασμένων τῶν
+ζῴων, τοῦ μὲν τὰ μόρια ἔχοντος τὰ τοῦ θήλεος πάντα, τοῦ
+δὲ τὰ τοῦ ἄῤῥενος, καθάπερ εἰς κάμινον εἰς τὴν ὑστέραν τε-
+θείη. ’1831ι2 πρεσβυτέρων γνγνομένων τοῖς μὲν τρίχας ἔχουσι
+σκληρότεραι γίγνονται αἱ τρίχες, τοῖς δὲ. . . 904a23 διὰ τί
+τῆς φωνῆς... φύσιν ἐχούσης ἄνω φέρεσθαι μᾶλλόν ἐστιν εὐ-
+ήκοος ἄνωθεν κάτω ἢ κάτωθεν ἄνους 892310 ἤδη γεγενημέ-
+νων πειρῶνται μικροὺς ποιεῖν. 1306αὸ καὶ ἐλθόντων διεστα-
+σίασεν αὐτοὺς πρὸς τοὺς εὐπόρους. ’111821 πᾶσιν ὅσοις ὑπάρ-
+χει κατὰ φύσιν ἡ κατὰ τόπον μεταβολὴ τοῖν σκελοῖν, ἑστῶ-
+τος μὲν ἑκάστου τὸ βάρος ἐν τούτῳ ἐστί (exspectabas ἑστῶτι),
+κινουμένοις δ’ εἰς τὸ πρόσθεν δεῖ τὸν πόδα τὸν ἡγούμενον
+τῇ θέσει κοῦφον εἶναι. De coel. 312b1⁷ φέρεται δὲ κάτω
+τὰ δύο ὗποσπωμένων.
+
+571ι1 Explicatur cur conclusio vera, quamquam fieri possit e fal-
+sis propositionibus, tamen non necessario ex iis proveniat. Et-
+enim si eadem conclusio vera quae necessario colligitur e veris
+propositionibus etiam e falsis fieri potest, sequitur e falsis
+non concludi necessario, quia non idem manare potest e re-
+pugnantibus, h. e. quia idem colligi non potest ex A et ex
+uon A (vs. 3 sqq.): hoc igitur est quod Aristoteles in sequen-
+tibus demonstrat. Iam singula explanemus. Si A et B ita ba-
+bent (νε. 1), ιιι Β εἰι necessario, si sit A, sequitur non esse
+A, si non sit B (cf. 531) 13), non sequitur esse A, si sit B.
+Fieri autem nequit (vs. 3-6), ιιι unum et idem, e. g. B con-
+sequatur, et si ponamus esse A et si ponamus non esse A. Hoc
+igitur ut demonstretur, duo sunt quae Aristoteles in mentem
+nobis revocat: unum est forma syllogismi hypothetici quam
+ὡς ἓν τύπῳ hic adiicit (νε. 6-9) -- ponamus B esse magnum,
+si A sit album, et Γ esse non album, si B sit magnum: se-
+quitur Γ esse nou album, si A sit album; alterum est quod
+iam commemoravit vs. 2, necessario uon esse A (νε. 9-11),
+εἰ Β uon sit, ita scilicet habentibus terminis, ut sit Β, si
+sit A. Haec si tenemus, facilia sunt reliqua: consequitur enim
+conversa propositione maiore syllogismi hypothetici quem ha-
+buimus A nou esse album, si Β non sit magnum (νε. 11);
+

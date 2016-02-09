@@ -1,0 +1,45 @@
+502 Analytica priora.
+
+σαῖος καὶ ὲῑιιυδρός ἐστιν aut τρόπον μέν τινα χερσαῖος τρό-
+πον δ’ ἄλλον ἔνυδρος. Alterum orationis membrum quod ha-
+bere debebat particulam δέ omnino reticuit 23b30, ubi v· quae Δ
+diximus. — De ἀντιφάσει v, quae diximus ad Har-33.
+
+61a22 sqq. Discrimen, ait, in eo est quod fit conversio, post·
+quam factus est syllogismus ex propositionibus concessis, dedu-
+ctio ad absurdum non item ex concessione oppositi, ut quae
+ex alterius arbitrio pendeat, sed sumto opposito utpote mani-
+festo. Obscurius haec dicta sunt: sensus hic est. Primum con-
+versio a deductione ita differt, ut illa binis syllogismis conti-
+neatur, haec uno: deinde in conversione, quippe quae probet
+alteram propositionem falsam csse, dari debet quod conclu-
+sioni repugnat, in deductione vero concessione opus non est,
+sed si non datur conclusio, sumitur ut manifestum quod con-
+clusioni repugnat (v. 622113-172: nam qui negat conclusio-
+nem, ab eo non petimus ut concedat quod conclusioni repu-
+gnet, sed hoc iam sumimus ipsi, quippe quod manifesto sit
+id quod ille verum esse contendat. Hoc quidem est discrimen
+quod Aristoteles statuit, sed quod maximum est videtur prae-
+termisisse, ut quod nemo non videat: namque est hoc, quod
+per conversionem evertitur altera propositio concessa, per de-
+ductionem comprobatur conclusio quae iam facta est: conver-
+sio consistit in propositione evertenda, deductio longius pro-
+greditur, ad conclusionem probandam.
+
+61a30 Rectius scripsisset ἢ μὴ παντὶ ἢ μηδενί, ut qnae iis re-
+sponderent quae habuimus vs. 28: syllogismus enim fit aut se-
+cundo aut quarto modo secundae figurae3 et secundo quidem
+per absurdum demonstratur A praedicari de aliquo B, quarto
+A praedicari de omni B: secundum igitur, quum in solo quarto
+colligatur quod volumus, addidit exempli causa: nam qui ne-
+gat conclusionem A praedicari de omni Β sumat necesse est
+A praedicari non de omni B, h. e. aut non nisi de aliquo aut
+de nullo, quamquam utrum sumendum sit in incerto relinqui-
+tur. - Ut facilius intelligantur quae sequuntur, breviter expo-
+namus viam et rationem, qua Aristoteles usus est capp. 11—13
+in explicanda deductione ad absurdum. Quum iu propositione
+quae probanda est per deductionem aut alterum de altero
+universo praedicetur aut negetur, aut de parte praedicetur aut
+negetur, profert singulas propositiones quae in singulis figuris
+demonstrandae sunt. Sumit aut quod iis repugnat aut quod
+

@@ -1,0 +1,46 @@
+374 Analytica priora.
+
+801» 25 propositio dicitur ἀντιστρέφεσθαι, quae vel ex affirmante
+facta est negans vel e negante affirmans non conversis terminis,
+cf. 321143. Etiam eam propositionem dici ἀντιστρέφειν, quae
+non nisi per accidens convertitur, ut dicunt scholasticipliilo-
+sophi — quam quidem conversionem Appuleius in mente ha-
+bet ubi dicit (642 ed. Flor.) „simplex conversio in conclusio-
+num illationibus reflexio nominatur’'(veriinderte Umkelirnng)—
+e nostro loco ipso colligere licet 25 a83 idem fere significat
+μετατίθεσθαι 511124. Alium sensum, quem habeant ἀντιστρέ-
+φειν et μετατιθέναι, exponit 59b1. Non de terminorum con- ’
+versione cogitandum est 641111 et 40: nam ἀντιστρέφεσθαι et
+ἀντιστρέψαι ἐπὶ τῶν ὅρων in his significant de priori termi-
+no dicendum esse quod antea de altero, de altero autem quod
+antea de priori, cf. 14a30. ἀντίστροφον dicitur quod alius
+rei quasi partes agit eamque repraesentat, v. 1292117. 661327
+ἐν μὲν οὖν τούτοις τοῖς ζῴοις ἡ γλῶττα τοιαύτη τὴν φύσιν
+ἐστίν, ὥσπερ ἀντιστρόφως ἔχουσα τῷ μυκτῆρι τῷ τῶν ἐλε-
+φάντων; in his igitur ἀντιστρόφως idem est quod ἀνάλογονε
+ἀντίστροφος etiam dicitur res contraria alteri, quam potestate
+aequiparat, 7431128 τὸ ψυχρὸν συνίστησιν ἀντίστροφον τῇ
+θερμότητι τῇ περὶ τὴν καρδίαν τὸν ἐγκέφαλον.
+
+251117 τὸ γὰρ Γ τῶν Β τί ἐστιν. Obscurius hoc dixit: nam
+demonstrandum est B de nullo A praedicari posse, si A prae-
+dicetur de nullo B. Si enim Β de aliquo A, eam partem no·-
+tionis A, de qua praedicatur B, appellemus C. ’ Iam habemus
+duas propositiones, unamC estA (C enim pars est-notionis A),
+alteram C est B. A igiturvet B unam partem habent commu-
+nem, eam intell. quae vocaturC, h. e. A et B conveniunt in ter-
+
+mino C. Verum igitur erit dicere et aliquod A (intell. C) est ,
+
+B, quod nunc praetermittimus, et aliquod B (intell. C) est A,
+quod hypothesi repugnat, quae fuit nullum B est A. Aristo-
+teles hoc non tam demonstravit, quam quomodo demonstrari
+possit innuit3 quae quidem demonstratio fieri debet per ἔκθε-
+σιν (ν. quae dicemus ad 261, U: haud temere enim adiecit τὶ
+vs. 17, quo significaret non de indefinita quadam parte gene-
+ris A sermonem esse, sed de ἀτόμοις. Eodem sensu 282124
+τὶ τῶν Σ dictum est. Demonstrationem ipsam exposuimuS, ne
+quis loci obscuritate inductus 'opinetur conversionem proposi-
+tionis universe negantis probari conversa propositione affir-
+mante de parte (schol. 149a35j, quod circulus esset in de-
+

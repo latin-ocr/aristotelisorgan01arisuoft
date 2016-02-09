@@ -1,0 +1,49 @@
+Analytica priora, 431
+
+Quum autem numerorum quadratorum parium dimidiae partes
+utique sint numeri pares (etenim numerorum quadratorum ra-
+dices aut pares sunt aut impares: si radix est numerus par,
+numerus quadratus erit (2n)2 = 47223 si impar, numerus
+quadratus erit (2η-ι- 1)2 = 4722 -i- 4η -i- 1, unde apparet
+omnem numerum quadratum aut imparem esse aut etiam di-
+midiam eius partem esse numerum parem), 571² autem ex-
+primi debeat numero pari, quia βγ2 == 21162: consequitur
+«1532 = ὲβγῖ = 2723 erit igitur βγ : αβ = 2n : 2m (quum
+enim viderimus numerum quadratum parem esse, ni radix par
+sit, βγ et αβ non poterunt non exprimi numeris paribus),
+neutiquam vero ratio quam habeant lineae βγ et αβ exprimi
+poterit sive binis numeris imparibus sive altero pari altero im-
+pari. Hanc proportionem si conferimus cum ea quam supra
+habuimus, ubi rationem linearum βγ et αβ aut binis numeris
+paribus aut altero pari altero impari exprimendam esse dixi-
+mus, numerum imparem pari aequalem dicere coacti sumus,
+quod absurdum est. De veritate huius demonstrationis dispu-
+tare, praesertim quum quid statuendum sit de ea satis facile
+sit ad intelligendum, non est huius loci3 nobis enim hoc loco
+nihil propositum est nisi ut veram mentem Aristotelis pa-
+tefaciamus.
+
+41 2132 διὰ τὴν ἐξ . . . per eam hypothesin quam sumsimus ·ab
+initio deductionis ad impossibile: unde colligit a syllogismo
+qui recta procedat deductionem non ipsa concludendi ratione
+differre, sed eo qnod demonstretur: illo enim probatur quod
+verum est, hac quod aperte salsum est ex eo quod, licet fal-
+sum, positum est tanquam verum.
+
+“ 41839 τὸ μεταλαμβανόμενον Alexander optime ita explicat, ut
+
+quod positum sit sumatur aliter quam positum sit. Quomodo
+
+hoc fiat, exemplo proposito ostendit: nam quod cum conditione
+prolatum est, id iam conditione omissa pronuntiatur. Si igi-
+tur Aristoteles in omnibus syllogismis hypotheticis conclusio-
+nem fieri dicit πρὸς τὸ μεταλαμβανόμενον, hoc nihil aliud
+est, quamsi diceret in conclusione sine conditione simpliciter
+
+(ὑπαρχόντως) proferri quod antea cum conditione prolatum
+
+sit: v. c. Si voluntas non pendet ex corpore, corpus non mo-
+
+¹vetur per se solum: voluntas non pendet ex corpore (τὸ μεο
+ταλαμβανόμενον) , corpus igitur non movetur perse solum.
+

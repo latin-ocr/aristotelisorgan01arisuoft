@@ -1,0 +1,46 @@
+406 Analytica priora.
+
+Gap. 14. Syllogismi qui finnt e binis propositionibus pos-
+sibilibus universalibus, 33:121 ea· altera universali, altera par-
+ticulari. 34 Quae sint propositionum coniugationes inutiles.
+1118 Quae les in his syllogismis obtineat.
+Quum propositionum possibilium liat conversio κατὰ τὴν
+ἀντίθεσιν (tizam), non solum de iis propositionum coniunctio-
+nibus Aristoteles agit, ex quibus simpliciter sumtis syllogismus
+fieret, sed omnes sedecim coniugatione· consideravit, quae e bi-
+nis propositionibus fieri possunt: nam per illam conversionem
+his propositionibus propriam ex συζυγίᾳ non syllogistica inter-
+dum fit syllogismus,
+33³3 τὸ γὰρ καθ’ οὗ Si. enim, ait, terminum A posse non
+praedicari dicimus de eo, de quo praedicari possit B, hoc est,
+si terminum A praedicari posse dicimus de nullo B eo sensu,
+quem modo exposuimus (32b26), idem est, ac si dicimus iis,
+de quibus terminus A possit non praedicari, nibil deesse eo-
+rum, qnae termino B contineri possint: neque igitur deerit G,
+quippe quod contineri possit termino Β. Quare substitui
+poterit terminus C in locum termini B, ut fiat conclusio A
+posse non praedicari de termino C. Non recte igitur Zell
+p. 179 not. hunc syllogismum explicat „d. i. wenn der Unter-
+satz aus einem verneinenden zu einem bejabenden gemacht
+wird”. Tenendum est, quod τὸ ἐνδέχεται μηδενί et hic et in
+sequentibus (e. g. vs. 9) ita accipiendum est, ut sit „potest
+fieri, ut non praedicetur de ullo”, τὸ οὐδενὶ ἐνδέχεται vero
+b5 idern est ac ἀδύνατόν ἐστι τινὶ ὑπάρχειν. Eodem modo
+differunt (v. 34b28 et 36) τὸ μηδενὶ ἐξ ἀνάγκης et τὸ ἐξ
+ἀνάγκης οὐδενί, quamquam vero non semper hoc discrimen
+ab Aristotele observatur, tamen singulorum semper locorum
+ratio satis indicabit, quem sensnm ista verba habeant.
+
+33a'1 οὐδεὶς γίνεται συλλογισμός, quia neque ex propositioni-
+bus simplicibus fit syllogismus, si maior universe affirmat,
+minor universe negat.
+
+33³9 Dedimus ὥσπερ, in quo non erit quod offendat coll. vs.17
+et iis quae diximus ad 20a4.
+
+33a25 Restituimus ἐνδέχεσθαι παντί, quod correxit cod. B:
+meliore· enim codices omnes post ἐνδέχεσθαι aliquid additum
+fuisse ostendunt, quamquam quod praebent· αβγ non habet
+quo defendatur. .Ante Bekkerum scribebatur παντὶ ἐνδέχε-
+σθαι. παντὶ suspicionem movisse videtur Sylburgio‚ quia de
+

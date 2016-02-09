@@ -1,0 +1,48 @@
+418 Analytica priora.
+
+logismi particulares ex universalibus fiunt, si in his propositio
+minor pro universali 'sumitur particularis, ιιι in particularibus
+de parte concludatur quod in universalibus de toto. Quare
+tabulas syllogismorum capp. 15 et 16 ita disposuimus, ut ex
+ordine universalis syllogismus particulari respondeat, primus
+septimo, octavo secundus et sic porro.
+
+36a33 καὶ τὸ συμπέρασμα ἔσται, intell. dummodo fiat syllogi-
+smus: namque non semper fit, si propositio negans est neces-
+naria. Loquitur autem de syllogismis IX et Xll.
+
+3612 39 ὅταν δὲ . . . Haec dicta sunt de syllogismo X, vs. 40 ἢ
+τὸ καθόλου . . . de syllogismis Vll et ΧΙ. Non commemoravit
+modum Vlll, quem ut complecteretur, vs. 40 post ἦ adiicere
+poterat τὸ ἐν τῷ κατηγορικῷ ἢ τὸ ,ἐν et quae seq.
+
+36b3 Reliquum est, ut demonstret non fieri syllogismum, si pro-
+positio minor sit universalis, maior particularis, vel utraque
+particularis. Praeterea monendum est duas coniugationes ex
+quibus non fit syllogismus ab Aristotele praetermissas esse,
+quae minorem habent necessario negantem de parte, maiorem
+incerte vel affirmantem vel negantem de toto.
+
+36b5 Delenda putavimus verba πρὸς τῷ μείζονι ἄκρῳ cum Boe-
+thio: nam quamquam πρὸς cum casu dativo hoc sensu con-
+iungitur, v. 39a35 et 61b16, cf. 3¹1b29, 38326, ubi Bkk. hoc
+non ferendum putavit (quamquam idem tuh’t 61 Ι)23 et 26,
+49a37, 36a25, 113 et 5), tamen, si ista verba servantur, et
+constructio offendit, quia praecessit πρὸς τὸ ἔλαττον ἄκρον,
+quod ex optimis libris restituimus vs. 3, et verba ipsa snper-
+vacanea sunt; facile enim, si omissa sunt, intelliguntur, ut
+aliena manu explicationis gratia addita esse videantur.
+
+36127 ὅταν δ’ ἀναγκαῖον . . . Observata eadem conditione, ut
+propositio minor sit universalis.
+
+361) 19 Propositioues coniugationum, quas consideravimus cap. 15
+et 16, similiter se habere debent, ut fiat syllogismus. Simili-
+tudo autem in eo est, quod ex syllogismis, de quibus cap. 15
+dictum est, fiunt syllogismi capitis 16, si ὑπάρχειν mutatur
+in ἀναγκαῖον εἶναι, hoc solo, ait, discrimine, ut in illis (ν.
+1V, Vl, X et ΧΙΙ cap. 15) conclusio fiat possibilis, si propo-
+sitio maior simpliciter neget, in his vero (v. ΙΙΙ, Vl, IX et XII
+cap. 16) conclusio non incerte, sed simpliciter neget, si maior
+necessario neget.
+

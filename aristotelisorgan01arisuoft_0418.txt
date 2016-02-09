@@ -1,0 +1,47 @@
+384 Analytica priora.
+
+’ negans consequens est universalis negantis et in ea continetur,
+ut, si haec syllogismum non efficiat, illa vel minus efficere va-
+leat: quare si e binis propositionibus quibuscunque nihil colli-
+gitur, neque altera ita mutata, ut ex universali fiat particularis,
+
+’ quidquam colligetur. - Vs. 16 ὅτι τινὶ οὐχ ὑπάρχει iungendum
+est cum ἀληθεύεται δέ. —— Scholion Alexandri ad vs. 19
+(schol. 152b47) brevius fecit Brandis. Nam ad συλλογιστικὴ
+mente intelligendum est συζυγία τὴν ἐλάττονα πρότασιν ἔχουσα
+ἀποφατικὴν κατὰ μέρος.
+
+26b20 Codices meliores omnes κᾶν τὸ καθόλου τεθείη, solus
+Angelicus τεθῇ qnod in contextum recepimus. Namque modi
+verborum in codd. ita inter se permiscentur, ut saepius non
+operae pretium sit haec annotare, quod neque Bekkerum fecisse
+video neque ipse semper feci: quare quod codd. habent κᾶν pro
+καὶ εἰ certius est quam τεθείη pro τεθῇ. Accedit quod Ari-
+stoteles et in iis quae praecesserunt et in iis quae sequuntur,
+ubi singulas propositiones commemorat, ut consideret num ex
+iis syllogismus fiat necne, uti solet particula ὅταν vel ἄν, qui-
+bus adiungitur modus coniunctivus. Occurrit etiam εἰ cum
+indicativo 27b1 et 36, cuius constructionis alia ratio est
+271238, 2812'24, bv, ubi praecessit ὅταν vel ἐὰν cum coniun-
+ctivo, quod deinde explicatur per εἰ γὰρ cum indicativo. Quae
+quum ita sint, καὶ εἰ cum modo optativo coniunctum, quod
+Bkk. dedit, nostro loco non ferendum videbatur.
+
+26b30 Sylburgius dedit ἐπιτελειοῦνται, quamquam codd. prae-
+bent ἐπιτελοῦνται et h. l. et 28 125, 29b6, 20 al. τελειοῦνται
+habemus 29⁸ 16 et 31 , ba, 39a23 α’ποτελειοῦται 5761) ἵ. τε-
+λεόω et τελειόω sine discrimine ponuntur, v. 752118, 10, 21,
+753210, 12, 1⁵1, quamquam τελεόω magis videtur in usu fuisse
+Aristoteli aut certe iis qui codd. descripserunt. ——- Vs. 32 optimi
+codices omiserunt alterum τό, quod cum Bkk. servavimus, quia'
+alterum cum quarto aut delendum erit aut retinendum, ef.
+4221> 13 μεταξὺ δὲ τούτων τό τε δριμὺ καὶ τὸ αὐστηρὸν καὶ
+στρυφνὸν καὶ ὀξύ et quae collegimus ad 3³21.
+
+26b33 σχήματα, figuras syllogismorum, quae dicuntur (Appule-
+ius „formulas” vocat), ab Aristotele appellatas >esse lul. Pa-
+cius putat‚ quia figuris geometricis adscriptis syllogismi ab eo
+illustrati sint. Equidem hanc vocem non tam a geometris pe-
+titam quam de ipso ordine terminorum accipiendam putave-
+rim, quem σχῆμα appellari licebitsetiam si de geometricis
+

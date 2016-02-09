@@ -1,0 +1,47 @@
+392 Analytica priora.
+
+cap. 7. Si altera propositio affirmat, altera universe
+negat, semper fit conclusio, in qua terminus minor de maiore
+praedicatur. 30 Imperfecti syllogismi omnes reduci possunt
+ad primam figuram. bl Ad 1 α’ et β’ reducuntur et syllo-
+gismi secundae figurae, 6 et syllogismi I y' et δ’, 20 et syllo-
+gismi figurae tertiae.
+
+29a21 Zeu et Biese (l. p. 146 vs. 4) lectionem codicis G pro-
+baverunt, quam non recepimus, quia coniunctiones binarum
+propositionum vel affirmantium vel negantium opponuntur con-
+iunctionibus propositionis affirmantis cum negante, sive uni-
+versales sunt sive particulares: quare verba καὶ ἐπὶ μέρους
+non ferenda sunt. Dicit enim hoc. Si ex coniunctione qua-
+cunque propositionum ὅμοιοσχημόνων non fit unus eorum syl-
+logismorum quos adhuc exposuimus, nihil omnino ex ea colli-
+gitur3 etiamsi autem ex coniunctione propositionum ἀνομοιο-
+σχημόνων, quae alteram habet universe negantem, 'non fit unus
+ex iis syllogismis quos exposuimus, tamen ex ea elici potest
+conclusio, in qua terminus minor de maiore praedicatur. Quos
+quidem concludendi modos scholastici philosophi appellaverunt
+syllogismos indirectos. -—- Latius patere τὸ ἀναγκαῖόν τι γίνε-
+σθαι quam τὸ συλλογισμὸν γίνεσθαι et probant quae legimus
+47222—35 et ipsa syllogismi definitio 24b18: quare quod
+nostro loco dicit οὐδὲν ὅλως γίνεται ἀναγκαῖον hoc est: non
+solum non fit syllogismus, sed nihil omnino est quod inde
+consequatur necessario. ’
+
+29³ 26 ὁμοίως δὲ κάπὶ . .. Indirecti syllogismi qui fiunt in reliquis
+figuris tres sunt. ln secunda sic. A de aliquo Β, sed de nullo (ἷζε
+C igitur de nullo et Β de aliquo A, quare (ΙΙΙ ς’) C de aliquo
+B non praedicatur. ln tertia duo modi restant. A vel de omni
+vel de aliquo C, B de nullo C, ex quibus conversis fit C de
+nullo B, sed de aliquo A: B igitur de aliquo A non praedica-
+tur (ΙΙ γ’). ’
+
+29827 Alexander causam, cur τὸ α’διόριστον hoc loco de affir-
+mativa propositione particulari sola dictum sit, nimis quaesivit:
+est autem in eo, quod, quum Aristoteles non agat nisi (le con-
+iunctione propositionum ἅνομοιοσχημόνων, quarum altera uni-
+verse neget, altera, si est ἅδιόριστος, non potest non affirmare
+de parte.
+
+29a31 δεικτικῶς περαίνεσθαι dicuntur syllogismi, qui nihil novi
+assumunt, sed ex ipsa ratione, quam termini inter se habent,
+

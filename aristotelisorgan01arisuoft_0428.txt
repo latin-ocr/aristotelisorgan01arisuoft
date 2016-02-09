@@ -1,0 +1,45 @@
+894 Analytica priora.
+
+propositionibus, in quibus simpliciter aliquid asseratur (die as-
+sertorischen), restat ut dicat de iis, quorum propositiones
+uliam habeant praedicandi rationem. Quae quidem ratio aut ita
+comparata est, ut in utraque propositione necessario praedice-
+tur alterum de altero (apodiktiscbe), aut ita, ut inutraque du-
+bium sit, utrum alterum de altero affirmandum sit an negan-
+dum (problematische), out ita, ut non eadem in utraque pro-
+positione praedicandi ratio obtineat (μῖξις). ln iis autem syl-
+logismis, dc quibus Aristotcles in sequentibus disputat, apparet
+non opus esse, ut etiam eas propositionum coniugationes re-
+tractet, ex quibus simpliciter sumtis non fieri syllogismum de-
+monstravit. Nam e ratione praedicandi quae in propositioni-
+bus obtiuet, non pendet, num fiat conclusio an non fiat, sed
+nihil ex ea pendet nisi ratio, qua praedicandum est quod prae-
+dicatur in conclusione, b. e. pendet ex ea qualis fiat conclusio,
+τὸ ἢ ὑπάρχον εἶναι ἢ ἀναγκαῖον ἢ ἐνδεχόμενον τὸ συμπέ-
+ρασμα.
+
+29δ33 καὶ οὐχ ὁμοίως . . . quum neque termini eandem inter
+se rationem habeant atque in iis syllogismis, de quibus adhuc
+diximus,
+
+30³8 οὐχ ὁμοίως . . . Syllogismi ll δ’ et ΙΙΙ ε’ non ut in simpli-
+cibus demonstrantur deductione facta ad absurdum. Nam ut
+fiat deductio, id ponendum est quod conclusioni repugnat.
+Conclusioni autem, quae statuit B de aliquo C necessario non
+praedicari (syllogismum 11 δ’ intelligimus), contradicimus, si Β
+de omni C praedicari posse affirmamus. Quod sive cum ma-
+iore sive cum minore propositione coniungitur, conclusio certe
+non erit necessaria ex altera propositione necessaria, altera in-
+certa. Demonstratio igitur per ἔκθεσιν haec erit. A de aliquo C
+necessario non praedicatur: de qua igitur parte terminiCneces-
+sario negatur A, ea appellatur D, ut A de omni D necessario
+negetur. Quum autem A de omni B necessario affirmetur, se-
+quitur (ll β’) Β de nullov D posse praedicari, B igitur de ali-
+quo C necessario non praedicabitur. Ex iis quae diximus per-
+spicuum est, quomodo etiam syllogismus lll ε’ per ἔκθεσιν de- >
+monstrandus sit: quam demonstrationem qui confecerit videbit
+verba ᾧ τινὶ ἑκάτερον μὴ ὑπάρχει non de lll ε’ dicta esse, sed
+de syllogismo ll δ’ solo, quippe in quo terminus C is est, ad
+quem verba ᾧ . . . ὑπάρχει respiciunt: nam ei parti termini C,
+quam D appellavimus, neutrum convenit, h. e. neque A neque Β
+
